@@ -4,4 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Splash-Screen.unity
+    guid: 9287a73301c6eed4f8ed733bceda21cf
+  - enabled: 1
+    path: Assets/_Scenes/Start.unity
+    guid: 689b1fb2a168ba244931e1451e518dee
+  - enabled: 1
+    path: Assets/_Scenes/01 Level.unity
+    guid: af7d13fcafbd88444b7fe38ba62b8d8c
+  - enabled: 1
+    path: Assets/_Scenes/01 - BattleBruno-Mestre.unity
+    guid: 996e36e0ae5383b4ba26cef6c8a712ea
+  - enabled: 1
+    path: Assets/_Scenes/Options Screen.unity
+    guid: db0ef696a872659408ba199776430bc5
